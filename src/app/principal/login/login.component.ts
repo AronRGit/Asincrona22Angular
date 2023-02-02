@@ -34,6 +34,4 @@ export class LoginComponent {
       this.deshabilitado = false;
     }
   }
-     
-  
 }
